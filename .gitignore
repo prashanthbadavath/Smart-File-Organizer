@@ -1,0 +1,30 @@
+# Python Cache
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+
+# Build Files
+build/
+dist/
+*.spec
+
+# Database
+*.db
+
+# Log Files
+logs/
+*.log
+
+# CSV Files
+*.csv
+
+# Test Files
+Test_Files/
+
+# Windows
+Thumbs.db
+
+# macOS
+.DS_Store
