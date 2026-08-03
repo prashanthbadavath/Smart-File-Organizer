@@ -1,5 +1,9 @@
 # Smart File Organizer
 
+## Application Screenshot
+
+![Main Window](main_window.png)
+
 ## Overview
 
 Smart File Organizer is a Python desktop application that automatically organizes files into folders such as Images, Documents, Videos and Others.
