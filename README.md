@@ -1,8 +1,6 @@
 # Smart File Organizer
 
-## Application Screenshot
 
-![Main Window](main_window.png)
 
 ## Overview
 
